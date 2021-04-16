@@ -1,5 +1,5 @@
 # Assignment 5 - Gotta go FAST!
-Final Due: Friday 4/23
+Final Due: Sunday 4/25
 
 # Goal
 To play with the vagaries of optimization.
